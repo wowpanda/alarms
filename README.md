@@ -4,7 +4,7 @@ Adds an alarm script that allows you set of alarms in areas like the Prison and 
 
 ## INSTALLATION:
 1. Put the "alarm" resource into your server's resource folder
-2. Make sure you add "start alarms" to your server .cfg
+2. Make sure you add "start alarms" to your server.cfg
 
 
 ## WHAT THIS ADDS:
